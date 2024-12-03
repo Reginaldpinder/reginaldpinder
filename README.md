@@ -2,7 +2,7 @@
 
 I am a passionate CS graduate from Old Dominion University, driven by a curiosity for technology. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
 
-![reginaldpinder's Stats](https://github-readme-stats.vercel.app/api?username=<reggiepinder>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![<reginaldpinder>'s Stats](https://github-readme-stats.vercel.app/api?username=<reginaldpinder>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
 
