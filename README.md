@@ -11,7 +11,7 @@ I am a passionate CS graduate from Old Dominion University, driven by a curiosit
 - 🌱 I’m currently learning Python/Django Full-Stack Web Development
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,linux,C++,java,python,postgresql,docker,vscode,eclipse)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,linux,cplusplus,java,python,postgresql,docker,vscode,eclipse)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
