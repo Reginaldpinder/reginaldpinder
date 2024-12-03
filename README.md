@@ -2,8 +2,6 @@
 
 I am a passionate CS graduate from Old Dominion University, driven by a curiosity for technology. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
-
 ## 🚀 About Me
 
 - 🔭 I'm graduating with a Bachelors of Science in Computer Science in the Fall of 2024.
