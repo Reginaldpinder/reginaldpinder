@@ -8,10 +8,10 @@ I am a passionate CS graduate from Old Dominion University, driven by a curiosit
 
 ## 🚀 About Me
 
-🌐 Backend Development: Crafting efficient APIs and managing data with technologies like Python, Django, and PostgreSQL.
-🛠️ Web Applications: Building interactive and responsive applications with JavaScript, HTML5, and CSS.
-📚 Academic Tools: Creating tools like KnowTime to assist students with time management, study support, and academic organization.
-🔐 Security: Ensuring robust security practices in every project I work on.
+#### 🌐 Backend Development: Crafting efficient APIs and managing data with technologies like Python, Django, and PostgreSQL.
+#### 🛠️ Web Applications: Building interactive and responsive applications with JavaScript, HTML5, and CSS.
+#### 📚 Academic Tools: Creating tools like KnowTime to assist students with time management, study support, and academic organization.
+#### 🔐 Security: Ensuring robust security practices in every project I work on.
 
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,linux,cpp,java,python,postgresql,docker,vscode,eclipse)](https://skillicons.dev)
