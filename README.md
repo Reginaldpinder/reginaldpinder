@@ -1,3 +1,5 @@
+[![MasterHead](![Capture](https://github.com/user-attachments/assets/07cee545-3158-4a08-8366-cafb2ad453d8))
+
 # Hi, I'm Reggie! 👋
 
 I am a passionate CS graduate from Old Dominion University, driven by a curiosity for technology. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
