@@ -1,6 +1,6 @@
 # Hi, I'm Reggie! 👋
 
-# 💻 Software Developer | 🌱 Passionate Learner | 🚀 Building innovative solutions
+### 💻 Software Developer | 🌱 Passionate Learner | 🚀 Building innovative solutions
 
 I'm a software developer with a strong foundation in backend development and web applications. I thrive on solving complex problems and creating scalable, user-friendly solutions. Currently, I'm exploring new ways to integrate modern technologies to optimize user experiences and streamline workflows. 
 
