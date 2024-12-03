@@ -1,5 +1,3 @@
-[![MasterHead](![Capture](https://github.com/user-attachments/assets/07cee545-3158-4a08-8366-cafb2ad453d8))
-
 # Hi, I'm Reggie! 👋
 
 I am a passionate CS graduate from Old Dominion University, driven by a curiosity for technology. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
@@ -13,7 +11,7 @@ I am a passionate CS graduate from Old Dominion University, driven by a curiosit
 - 🌱 I’m currently learning Python/Django Full-Stack Web Development
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,jsp,java,python,JupyterNotebook,postgresql,docker)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
